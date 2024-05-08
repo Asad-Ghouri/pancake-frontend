@@ -19,7 +19,6 @@ export enum ChainId {
   BASE_TESTNET = 84531,
   BASE_SEPOLIA = 84532,
   SEPOLIA = 11155111,
-  BstChain = 7007,
 }
 
 export const testnetChainIds = [
